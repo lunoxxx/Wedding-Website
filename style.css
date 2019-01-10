@@ -1,0 +1,219 @@
+html, body{
+}
+body{
+    background-image: url("wall.jpg");
+}
+.backdrop{
+    background-color: #ffe6e6;
+    border: 0px solid  #FFEBCD;
+    margin: 0px;
+    text-transform: uppercase;
+    font-family: "Roboto";
+    font-weight: 800;s
+    float: left;
+    font-size: 20px;
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    border-radius: 5px;
+    height: 835px;
+    width: 1350px;
+}
+.bar{
+    background-color: #336699;
+    border: 0px solid  gray;
+    margin: 0px;
+    text-transform: uppercase;
+    font-family: "Roboto";
+    font-weight: 800;s
+    float: left;
+    font-size: 20px;
+    top: 0px;
+    left: 300px;
+    position: absolute;
+    height: 40px;
+    width: 800px;
+}
+.menubutton{
+    background-image: url("menu.png");
+    background-size: 40px;
+    border: 0px solid  gray;
+    margin: 0px;
+    text-transform: uppercase;
+    font-family: "Roboto";
+    font-weight: 800;s
+    float: left;
+    font-size: 20px;
+    top: 0px;
+    left: 310px;
+    position: absolute;
+    height: 60px;
+    width: 40px;
+}
+.boxdrop1{
+    background-image: url("wall.jpg");
+    border: 0px solid  #F0E68C;
+    margin: 0px;
+    background-size: 500px;
+    text-transform: uppercase;
+    font-family: "Roboto";
+    font-weight: 800;s
+    float: left;
+    font-size: 20px;
+    top: 40.5px;
+    left: 300px;
+    position: absolute;
+    height: 400px;
+    width: 800px;
+}
+.boxdrop2{
+    background-image: url("boxdrop1.jpg");
+    border: 0px solid  #FFEBCD;
+    margin: 0px;
+    background-size: 500px;
+    text-transform: uppercase;
+    font-family: "Roboto";
+    font-weight: 800;
+    float: left;
+    font-size: 20px;
+    top: 440px;
+    left: 300px;
+    position: absolute;
+    height: 400px;
+    width: 800px;
+}
+.videoclip{
+    background-image: url("vid.jpg");
+    background-size: 500px;
+    border: 0.5px solid  #FFEBCD;
+    margin: 0px;
+    font-family: "Satisfy";
+    text-align: center;
+    font-weight: 1000;
+    float: left;
+    font-size: 50px;
+    top: 550px;
+    left: 450px;
+    position: absolute;
+    height: 280px;
+    width: 500px;
+}
+.polaroid{
+    background-image: url("pola.png");
+    border: 0px solid  #F0E68C;
+    margin: 0px;
+    background-size: 800px;
+    text-transform: uppercase;
+    font-family: "Roboto";
+    font-weight: 800;s
+    float: left;
+    font-size: 20px;
+    top: 40.5px;
+    left: 300px;
+    position: absolute;
+    height: 400px;
+    width: 800px;
+}
+.pic1{
+    background-image: url("pic1.jpg") ;
+    margin: 0px;
+    background-size: 190px;
+    top: 190px;
+    left: 360px;
+    position: absolute;
+    height: 120px;
+    width: 120px;
+}
+.clickpic1{
+    background-color: white;
+    margin: 0px;
+    background-size: 190px;
+    font-family: "Roboto";
+    font-weight: 800;
+    float: left;
+    font-size: 12px;
+    font-color: white;
+    top: 320px;
+    left: 380px;
+    position: absolute;
+    height: 20px;
+    width: 90px;
+}
+.pic2{
+    background-image: url("pic2.jpg") ;
+    margin: 0px;
+    background-size: 190px;
+    text-transform: uppercase;
+    top: 190px;
+    left: 550px;
+    position: absolute;
+    height: 120px;
+    width: 120px;
+}
+.clickpic2{
+    background-color: white;
+    margin: 0px;
+    background-size: 190px;
+    font-family: "Roboto";
+    font-weight: 800;s
+    float: left;
+    font-size: 12px;
+    font-color: white;
+    top: 330px;
+    left: 570px;
+    position: absolute;
+    height: 20px;
+    width: 90px;
+}
+.pic3{
+    background-image: url("pic3.jpg") ;
+    margin: 0px;
+    background-size: 190px;
+    text-transform: uppercase;
+    top: 190px;
+    left: 745px;
+    position: absolute;
+    height: 120px;
+    width: 120px;
+}
+.clickpic3{
+    background-color: white;
+    margin: 0px;
+    background-size: 190px;
+    font-family: "Roboto";
+    font-weight: 800;s
+    float: left;
+    font-size: 12px;
+    font-color: white;
+    top: 320px;
+    left: 760px;
+    position: absolute;
+    height: 20px;
+    width: 90px;
+}
+.pic4{
+    background-image: url("pic4.jpg") ;
+    margin: 0px;
+    background-size: 190px;
+    text-transform: uppercase;
+    top: 170px;
+    left: 920px;
+    position: absolute;
+    height: 120px;
+    width: 120px;
+}
+.clickpic4{
+    background-color: white;
+    margin: 0px;
+    background-size: 190px;
+    font-family: "Roboto";
+    font-weight: 800;s
+    float: left;
+    font-size: 12px;
+    font-color: white;
+    top: 310px;
+    left: 950px;
+    position: absolute;
+    height: 20px;
+    width: 90px;
+}
