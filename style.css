@@ -34,7 +34,7 @@ body{
     height: 40px;
     width: 800px;
 }
-.menubutton{
+.MenuButton{
     background-image: url("menu.png");
     background-size: 40px;
     border: 0px solid  gray;
