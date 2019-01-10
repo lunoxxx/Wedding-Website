@@ -1,0 +1,30 @@
+html, body{
+    margin: 0;
+    backgrounbackground-image: url(" book-bouquet-card-545042.jpg");    
+    
+    
+    .header{
+    background-image: url(" ");
+    height:500px;
+    width:200px;
+    background-color: white;
+    align-self: center;
+}
+
+.box-container{
+    border:1px solid white;
+    width: 1500px;
+    height: auto;
+    margin: 0 auto;
+    overflow: hidden;
+
+}
+
+.loginbox 
+with:
+
+.footer{
+    height:100px;
+    width:200px;
+    
+}
